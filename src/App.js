@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import { base64Photo } from './Constant';
 import th1photo from './th1photo.jpg';
 import { base64Photo } from './Constant';
 import logo from './logo.svg';
